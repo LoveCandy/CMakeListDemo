@@ -1,0 +1,3 @@
+D:/test/build/CMakeFiles/libbtcapi.dir
+D:/test/build/CMakeFiles/ALL_BUILD.dir
+D:/test/build/CMakeFiles/ZERO_CHECK.dir
